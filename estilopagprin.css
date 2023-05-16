@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+}
+h3{ 
+    color: rgb(160, 30, 235);
+}
+h1{
+    color: rgb(224, 190, 38);
+    
+}
+p{
+    color:rgb(54, 6, 56)
+
+}
+
+H2{
+    color: rgb(228, 41, 112);
+}
+
+body{
+    background-color:#E0FFFF;
+}
+li{
+color: orangered;
+text-align: unset;
+}
+ol{
+    color: orangered;
+}
+h4{
+    color: darkgreen;
+}
+
+#aside{
+background-color: rgb(211, 172, 233);
+text-align: inherit;
+line-height: 150%;
+box-decoration-break: slice;
+font-size: large;
+}
+#navegador{
+    color: rgb(18, 34, 2);
+    background-color: aqua;
+}
+table{
+border-style: inset;
+text-align: center;
+text-decoration-color: blueviolet;
+}

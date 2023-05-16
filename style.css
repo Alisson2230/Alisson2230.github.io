@@ -1,0 +1,17 @@
+h3{
+    color: #008080;
+}
+body{
+    text-align: center;
+    background: #e7a1f5;
+}
+h1{
+    font-family: 'Verdana';
+    color:#DAA520;
+}
+.formulario{
+    background: #fff;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 0 6px 0 rgba(225, 255, 255, alpha);
+}
